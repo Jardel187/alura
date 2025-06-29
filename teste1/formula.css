@@ -1,17 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&display=swap');
+
 * {
     padding: 0;
     margin: 0;
 }
  
+
 body {
     height: 100vh;
     box-sizing: border-box;
 }
 
 .inicio {
-   
     
-}
-body {
-    
+     font-family: "Meow Script", cursive;
 }
